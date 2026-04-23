@@ -11,7 +11,7 @@ Creditos: Este proyecto es una alternativa personal inspirada en el flujo de tra
 * IA de Google (Gemini): Utiliza modelos optimizados (Lite) para procesar capturas de pantalla y reconocer elementos de interfaz.
 * Navegacion Web Virtual: Genera una capa transparente donde el usuario puede navegar con el cursor virtual (flechas, H para encabezados, etc.).
 * Interaccion Real: Al presionar Enter sobre un elemento detectado, el programa realiza el clic (izquierdo, derecho o doble) en la aplicación original.
-* Salida de Voz: Integrado con accessible-output2 para una respuesta inmediata con NVDA, Jieshuo o cualquier lector compatible.
+* Salida de Voz: Integrado con accessible-output2 para una respuesta inmediata con cualquier lector compatible.
 
 ---
 
@@ -41,7 +41,7 @@ Si utilizas la Cortina de Pantalla (Screen Curtain) activa, la IA recibira una i
 ---
 
 ## Apoyo al Proyecto
-Si esta herramienta te resulta util, podes colaborar para mantener las APIs de IA:
+Si esta herramienta te resulta util, podes colaborar para que me compre una birra:
 
 * PayPal: https://www.paypal.com/paypalme/KevOHiggins
 * Mercado Pago (Argentina): https://link.mercadopago.com.ar/kevohiggins
